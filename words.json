@@ -4,48 +4,3618 @@
       "id": "easy_jhs12",
       "name": "簡単（中1〜中2・頻出）",
       "words": [
-        {"en":"book","ja":"本"},
-        {"en":"pen","ja":"ペン"},
-        {"en":"school","ja":"学校"},
-        {"en":"friend","ja":"友だち"},
-        {"en":"home","ja":"家"},
-        {"en":"water","ja":"水"},
-        {"en":"food","ja":"食べ物"},
-        {"en":"happy","ja":"うれしい"},
-        {"en":"small","ja":"小さい"},
-        {"en":"morning","ja":"朝"}
+        {
+          "en": "zero",
+          "ja": "ゼロ"
+        },
+        {
+          "en": "one",
+          "ja": "1"
+        },
+        {
+          "en": "two",
+          "ja": "2"
+        },
+        {
+          "en": "three",
+          "ja": "3"
+        },
+        {
+          "en": "four",
+          "ja": "4"
+        },
+        {
+          "en": "five",
+          "ja": "5"
+        },
+        {
+          "en": "six",
+          "ja": "6"
+        },
+        {
+          "en": "seven",
+          "ja": "7"
+        },
+        {
+          "en": "eight",
+          "ja": "8"
+        },
+        {
+          "en": "nine",
+          "ja": "9"
+        },
+        {
+          "en": "ten",
+          "ja": "10"
+        },
+        {
+          "en": "eleven",
+          "ja": "11"
+        },
+        {
+          "en": "twelve",
+          "ja": "12"
+        },
+        {
+          "en": "thirteen",
+          "ja": "13"
+        },
+        {
+          "en": "fourteen",
+          "ja": "14"
+        },
+        {
+          "en": "fifteen",
+          "ja": "15"
+        },
+        {
+          "en": "sixteen",
+          "ja": "16"
+        },
+        {
+          "en": "seventeen",
+          "ja": "17"
+        },
+        {
+          "en": "eighteen",
+          "ja": "18"
+        },
+        {
+          "en": "nineteen",
+          "ja": "19"
+        },
+        {
+          "en": "twenty",
+          "ja": "20"
+        },
+        {
+          "en": "thirty",
+          "ja": "30"
+        },
+        {
+          "en": "forty",
+          "ja": "40"
+        },
+        {
+          "en": "fifty",
+          "ja": "50"
+        },
+        {
+          "en": "sixty",
+          "ja": "60"
+        },
+        {
+          "en": "seventy",
+          "ja": "70"
+        },
+        {
+          "en": "eighty",
+          "ja": "80"
+        },
+        {
+          "en": "ninety",
+          "ja": "90"
+        },
+        {
+          "en": "hundred",
+          "ja": "100"
+        },
+        {
+          "en": "Monday",
+          "ja": "月曜日"
+        },
+        {
+          "en": "Tuesday",
+          "ja": "火曜日"
+        },
+        {
+          "en": "Wednesday",
+          "ja": "水曜日"
+        },
+        {
+          "en": "Thursday",
+          "ja": "木曜日"
+        },
+        {
+          "en": "Friday",
+          "ja": "金曜日"
+        },
+        {
+          "en": "Saturday",
+          "ja": "土曜日"
+        },
+        {
+          "en": "Sunday",
+          "ja": "日曜日"
+        },
+        {
+          "en": "January",
+          "ja": "1月"
+        },
+        {
+          "en": "February",
+          "ja": "2月"
+        },
+        {
+          "en": "March",
+          "ja": "3月"
+        },
+        {
+          "en": "April",
+          "ja": "4月"
+        },
+        {
+          "en": "May",
+          "ja": "5月"
+        },
+        {
+          "en": "June",
+          "ja": "6月"
+        },
+        {
+          "en": "July",
+          "ja": "7月"
+        },
+        {
+          "en": "August",
+          "ja": "8月"
+        },
+        {
+          "en": "September",
+          "ja": "9月"
+        },
+        {
+          "en": "October",
+          "ja": "10月"
+        },
+        {
+          "en": "November",
+          "ja": "11月"
+        },
+        {
+          "en": "December",
+          "ja": "12月"
+        },
+        {
+          "en": "red",
+          "ja": "赤"
+        },
+        {
+          "en": "blue",
+          "ja": "青"
+        },
+        {
+          "en": "green",
+          "ja": "緑"
+        },
+        {
+          "en": "yellow",
+          "ja": "黄色"
+        },
+        {
+          "en": "black",
+          "ja": "黒"
+        },
+        {
+          "en": "white",
+          "ja": "白"
+        },
+        {
+          "en": "orange",
+          "ja": "オレンジ色"
+        },
+        {
+          "en": "pink",
+          "ja": "ピンク"
+        },
+        {
+          "en": "brown",
+          "ja": "茶色"
+        },
+        {
+          "en": "purple",
+          "ja": "紫"
+        },
+        {
+          "en": "gray",
+          "ja": "灰色"
+        },
+        {
+          "en": "gold",
+          "ja": "金色"
+        },
+        {
+          "en": "silver",
+          "ja": "銀色"
+        },
+        {
+          "en": "left",
+          "ja": "左"
+        },
+        {
+          "en": "right",
+          "ja": "右"
+        },
+        {
+          "en": "up",
+          "ja": "上"
+        },
+        {
+          "en": "down",
+          "ja": "下"
+        },
+        {
+          "en": "north",
+          "ja": "北"
+        },
+        {
+          "en": "south",
+          "ja": "南"
+        },
+        {
+          "en": "east",
+          "ja": "東"
+        },
+        {
+          "en": "west",
+          "ja": "西"
+        },
+        {
+          "en": "spring",
+          "ja": "春"
+        },
+        {
+          "en": "summer",
+          "ja": "夏"
+        },
+        {
+          "en": "autumn",
+          "ja": "秋"
+        },
+        {
+          "en": "fall",
+          "ja": "秋"
+        },
+        {
+          "en": "winter",
+          "ja": "冬"
+        },
+        {
+          "en": "book",
+          "ja": "本"
+        },
+        {
+          "en": "pen",
+          "ja": "ペン"
+        },
+        {
+          "en": "pencil",
+          "ja": "鉛筆"
+        },
+        {
+          "en": "eraser",
+          "ja": "消しゴム"
+        },
+        {
+          "en": "notebook",
+          "ja": "ノート"
+        },
+        {
+          "en": "desk",
+          "ja": "机"
+        },
+        {
+          "en": "chair",
+          "ja": "いす"
+        },
+        {
+          "en": "school",
+          "ja": "学校"
+        },
+        {
+          "en": "class",
+          "ja": "授業／クラス"
+        },
+        {
+          "en": "student",
+          "ja": "生徒"
+        },
+        {
+          "en": "teacher",
+          "ja": "先生"
+        },
+        {
+          "en": "friend",
+          "ja": "友だち"
+        },
+        {
+          "en": "family",
+          "ja": "家族"
+        },
+        {
+          "en": "father",
+          "ja": "父"
+        },
+        {
+          "en": "mother",
+          "ja": "母"
+        },
+        {
+          "en": "brother",
+          "ja": "兄／弟"
+        },
+        {
+          "en": "sister",
+          "ja": "姉／妹"
+        },
+        {
+          "en": "home",
+          "ja": "家"
+        },
+        {
+          "en": "room",
+          "ja": "部屋"
+        },
+        {
+          "en": "door",
+          "ja": "ドア"
+        },
+        {
+          "en": "window",
+          "ja": "窓"
+        },
+        {
+          "en": "bag",
+          "ja": "かばん"
+        },
+        {
+          "en": "map",
+          "ja": "地図"
+        },
+        {
+          "en": "clock",
+          "ja": "時計"
+        },
+        {
+          "en": "watch",
+          "ja": "腕時計"
+        },
+        {
+          "en": "phone",
+          "ja": "電話"
+        },
+        {
+          "en": "computer",
+          "ja": "コンピュータ"
+        },
+        {
+          "en": "TV",
+          "ja": "テレビ"
+        },
+        {
+          "en": "radio",
+          "ja": "ラジオ"
+        },
+        {
+          "en": "music",
+          "ja": "音楽"
+        },
+        {
+          "en": "sport",
+          "ja": "スポーツ"
+        },
+        {
+          "en": "game",
+          "ja": "ゲーム"
+        },
+        {
+          "en": "soccer",
+          "ja": "サッカー"
+        },
+        {
+          "en": "baseball",
+          "ja": "野球"
+        },
+        {
+          "en": "tennis",
+          "ja": "テニス"
+        },
+        {
+          "en": "swim",
+          "ja": "泳ぐ"
+        },
+        {
+          "en": "run",
+          "ja": "走る"
+        },
+        {
+          "en": "walk",
+          "ja": "歩く"
+        },
+        {
+          "en": "eat",
+          "ja": "食べる"
+        },
+        {
+          "en": "drink",
+          "ja": "飲む"
+        },
+        {
+          "en": "sleep",
+          "ja": "眠る"
+        },
+        {
+          "en": "get",
+          "ja": "得る／手に入れる"
+        },
+        {
+          "en": "give",
+          "ja": "与える"
+        },
+        {
+          "en": "take",
+          "ja": "取る／連れて行く"
+        },
+        {
+          "en": "go",
+          "ja": "行く"
+        },
+        {
+          "en": "come",
+          "ja": "来る"
+        },
+        {
+          "en": "see",
+          "ja": "見る"
+        },
+        {
+          "en": "look",
+          "ja": "見る（意識して）"
+        },
+        {
+          "en": "listen",
+          "ja": "聞く"
+        },
+        {
+          "en": "hear",
+          "ja": "聞こえる"
+        },
+        {
+          "en": "speak",
+          "ja": "話す"
+        },
+        {
+          "en": "say",
+          "ja": "言う"
+        },
+        {
+          "en": "tell",
+          "ja": "伝える"
+        },
+        {
+          "en": "read",
+          "ja": "読む"
+        },
+        {
+          "en": "write",
+          "ja": "書く"
+        },
+        {
+          "en": "open",
+          "ja": "開ける"
+        },
+        {
+          "en": "close",
+          "ja": "閉める"
+        },
+        {
+          "en": "make",
+          "ja": "作る"
+        },
+        {
+          "en": "use",
+          "ja": "使う"
+        },
+        {
+          "en": "help",
+          "ja": "助ける"
+        },
+        {
+          "en": "study",
+          "ja": "勉強する"
+        },
+        {
+          "en": "learn",
+          "ja": "学ぶ"
+        },
+        {
+          "en": "teach",
+          "ja": "教える"
+        },
+        {
+          "en": "play",
+          "ja": "遊ぶ／（スポーツを）する"
+        },
+        {
+          "en": "like",
+          "ja": "好き"
+        },
+        {
+          "en": "love",
+          "ja": "大好き"
+        },
+        {
+          "en": "want",
+          "ja": "〜したい"
+        },
+        {
+          "en": "need",
+          "ja": "必要とする"
+        },
+        {
+          "en": "good",
+          "ja": "良い"
+        },
+        {
+          "en": "bad",
+          "ja": "悪い"
+        },
+        {
+          "en": "big",
+          "ja": "大きい"
+        },
+        {
+          "en": "small",
+          "ja": "小さい"
+        },
+        {
+          "en": "new",
+          "ja": "新しい"
+        },
+        {
+          "en": "old",
+          "ja": "古い／年老いた"
+        },
+        {
+          "en": "hot",
+          "ja": "暑い／熱い"
+        },
+        {
+          "en": "cold",
+          "ja": "寒い／冷たい"
+        },
+        {
+          "en": "warm",
+          "ja": "暖かい"
+        },
+        {
+          "en": "cool",
+          "ja": "涼しい"
+        },
+        {
+          "en": "happy",
+          "ja": "うれしい"
+        },
+        {
+          "en": "sad",
+          "ja": "悲しい"
+        },
+        {
+          "en": "fine",
+          "ja": "元気だ／大丈夫"
+        },
+        {
+          "en": "busy",
+          "ja": "忙しい"
+        },
+        {
+          "en": "easy",
+          "ja": "簡単な"
+        },
+        {
+          "en": "difficult",
+          "ja": "難しい"
+        },
+        {
+          "en": "morning",
+          "ja": "朝"
+        },
+        {
+          "en": "afternoon",
+          "ja": "午後"
+        },
+        {
+          "en": "evening",
+          "ja": "夕方"
+        },
+        {
+          "en": "night",
+          "ja": "夜"
+        },
+        {
+          "en": "today",
+          "ja": "今日"
+        },
+        {
+          "en": "tomorrow",
+          "ja": "明日"
+        },
+        {
+          "en": "yesterday",
+          "ja": "昨日"
+        },
+        {
+          "en": "now",
+          "ja": "今"
+        },
+        {
+          "en": "soon",
+          "ja": "すぐに"
+        },
+        {
+          "en": "later",
+          "ja": "後で"
+        },
+        {
+          "en": "always",
+          "ja": "いつも"
+        },
+        {
+          "en": "often",
+          "ja": "しばしば"
+        },
+        {
+          "en": "sometimes",
+          "ja": "ときどき"
+        },
+        {
+          "en": "never",
+          "ja": "決して〜ない"
+        },
+        {
+          "en": "here",
+          "ja": "ここ"
+        },
+        {
+          "en": "there",
+          "ja": "そこ／あそこ"
+        },
+        {
+          "en": "where",
+          "ja": "どこ"
+        },
+        {
+          "en": "who",
+          "ja": "誰"
+        },
+        {
+          "en": "what",
+          "ja": "何"
+        },
+        {
+          "en": "when",
+          "ja": "いつ"
+        },
+        {
+          "en": "why",
+          "ja": "なぜ"
+        },
+        {
+          "en": "how",
+          "ja": "どうやって"
+        },
+        {
+          "en": "and",
+          "ja": "そして"
+        },
+        {
+          "en": "but",
+          "ja": "しかし"
+        },
+        {
+          "en": "or",
+          "ja": "または"
+        },
+        {
+          "en": "because",
+          "ja": "なぜなら"
+        },
+        {
+          "en": "so",
+          "ja": "だから"
+        },
+        {
+          "en": "please",
+          "ja": "お願いします"
+        },
+        {
+          "en": "thank",
+          "ja": "感謝する"
+        },
+        {
+          "en": "sorry",
+          "ja": "ごめんなさい"
+        },
+        {
+          "en": "apple",
+          "ja": "りんご"
+        },
+        {
+          "en": "banana",
+          "ja": "バナナ"
+        },
+        {
+          "en": "grape",
+          "ja": "ぶどう"
+        },
+        {
+          "en": "lemon",
+          "ja": "レモン"
+        },
+        {
+          "en": "rice",
+          "ja": "ご飯"
+        },
+        {
+          "en": "bread",
+          "ja": "パン"
+        },
+        {
+          "en": "milk",
+          "ja": "牛乳"
+        },
+        {
+          "en": "tea",
+          "ja": "お茶"
+        },
+        {
+          "en": "coffee",
+          "ja": "コーヒー"
+        },
+        {
+          "en": "water",
+          "ja": "水"
+        },
+        {
+          "en": "juice",
+          "ja": "ジュース"
+        },
+        {
+          "en": "cake",
+          "ja": "ケーキ"
+        },
+        {
+          "en": "egg",
+          "ja": "卵"
+        },
+        {
+          "en": "fish",
+          "ja": "魚"
+        },
+        {
+          "en": "meat",
+          "ja": "肉"
+        },
+        {
+          "en": "vegetable",
+          "ja": "野菜"
+        },
+        {
+          "en": "dog",
+          "ja": "犬"
+        },
+        {
+          "en": "cat",
+          "ja": "猫"
+        },
+        {
+          "en": "bird",
+          "ja": "鳥"
+        },
+        {
+          "en": "horse",
+          "ja": "馬"
+        },
+        {
+          "en": "cow",
+          "ja": "牛"
+        },
+        {
+          "en": "pig",
+          "ja": "豚"
+        },
+        {
+          "en": "rabbit",
+          "ja": "うさぎ"
+        },
+        {
+          "en": "park",
+          "ja": "公園"
+        },
+        {
+          "en": "station",
+          "ja": "駅"
+        },
+        {
+          "en": "hospital",
+          "ja": "病院"
+        },
+        {
+          "en": "library",
+          "ja": "図書館"
+        },
+        {
+          "en": "store",
+          "ja": "店"
+        },
+        {
+          "en": "shop",
+          "ja": "店"
+        },
+        {
+          "en": "bank",
+          "ja": "銀行"
+        },
+        {
+          "en": "bus",
+          "ja": "バス"
+        },
+        {
+          "en": "train",
+          "ja": "電車"
+        },
+        {
+          "en": "car",
+          "ja": "車"
+        },
+        {
+          "en": "bike",
+          "ja": "自転車"
+        },
+        {
+          "en": "plane",
+          "ja": "飛行機"
+        },
+        {
+          "en": "rain",
+          "ja": "雨"
+        },
+        {
+          "en": "snow",
+          "ja": "雪"
+        },
+        {
+          "en": "wind",
+          "ja": "風"
+        },
+        {
+          "en": "sun",
+          "ja": "太陽"
+        },
+        {
+          "en": "cloud",
+          "ja": "雲"
+        },
+        {
+          "en": "street",
+          "ja": "通り"
+        },
+        {
+          "en": "road",
+          "ja": "道路"
+        },
+        {
+          "en": "city",
+          "ja": "都市"
+        },
+        {
+          "en": "town",
+          "ja": "町"
+        },
+        {
+          "en": "village",
+          "ja": "村"
+        },
+        {
+          "en": "country",
+          "ja": "国"
+        },
+        {
+          "en": "Japan",
+          "ja": "日本"
+        },
+        {
+          "en": "English",
+          "ja": "英語"
+        },
+        {
+          "en": "name",
+          "ja": "名前"
+        },
+        {
+          "en": "age",
+          "ja": "年齢"
+        },
+        {
+          "en": "boy",
+          "ja": "男の子"
+        },
+        {
+          "en": "girl",
+          "ja": "女の子"
+        },
+        {
+          "en": "man",
+          "ja": "男性"
+        },
+        {
+          "en": "woman",
+          "ja": "女性"
+        },
+        {
+          "en": "people",
+          "ja": "人々"
+        },
+        {
+          "en": "hand",
+          "ja": "手"
+        },
+        {
+          "en": "head",
+          "ja": "頭"
+        },
+        {
+          "en": "eye",
+          "ja": "目"
+        },
+        {
+          "en": "ear",
+          "ja": "耳"
+        },
+        {
+          "en": "nose",
+          "ja": "鼻"
+        },
+        {
+          "en": "mouth",
+          "ja": "口"
+        },
+        {
+          "en": "hair",
+          "ja": "髪"
+        },
+        {
+          "en": "face",
+          "ja": "顔"
+        },
+        {
+          "en": "leg",
+          "ja": "足"
+        },
+        {
+          "en": "foot",
+          "ja": "足"
+        },
+        {
+          "en": "arm",
+          "ja": "腕"
+        },
+        {
+          "en": "finger",
+          "ja": "指"
+        },
+        {
+          "en": "body",
+          "ja": "体"
+        },
+        {
+          "en": "house",
+          "ja": "家"
+        },
+        {
+          "en": "kitchen",
+          "ja": "台所"
+        },
+        {
+          "en": "bathroom",
+          "ja": "浴室／トイレ"
+        },
+        {
+          "en": "bedroom",
+          "ja": "寝室"
+        },
+        {
+          "en": "garden",
+          "ja": "庭"
+        },
+        {
+          "en": "table",
+          "ja": "テーブル"
+        },
+        {
+          "en": "bed",
+          "ja": "ベッド"
+        },
+        {
+          "en": "box",
+          "ja": "箱"
+        },
+        {
+          "en": "picture",
+          "ja": "絵／写真"
+        },
+        {
+          "en": "letter",
+          "ja": "手紙"
+        },
+        {
+          "en": "day",
+          "ja": "日"
+        },
+        {
+          "en": "week",
+          "ja": "週"
+        },
+        {
+          "en": "month",
+          "ja": "月"
+        },
+        {
+          "en": "year",
+          "ja": "年"
+        },
+        {
+          "en": "time",
+          "ja": "時間"
+        },
+        {
+          "en": "minute",
+          "ja": "分"
+        },
+        {
+          "en": "hour",
+          "ja": "時間（1時間）"
+        },
+        {
+          "en": "start",
+          "ja": "始める"
+        },
+        {
+          "en": "finish",
+          "ja": "終える"
+        },
+        {
+          "en": "buy",
+          "ja": "買う"
+        },
+        {
+          "en": "sell",
+          "ja": "売る"
+        },
+        {
+          "en": "pay",
+          "ja": "払う"
+        },
+        {
+          "en": "meet",
+          "ja": "会う"
+        },
+        {
+          "en": "call",
+          "ja": "電話する"
+        },
+        {
+          "en": "wait",
+          "ja": "待つ"
+        },
+        {
+          "en": "sit",
+          "ja": "座る"
+        },
+        {
+          "en": "stand",
+          "ja": "立つ"
+        },
+        {
+          "en": "live",
+          "ja": "住む"
+        },
+        {
+          "en": "work",
+          "ja": "働く"
+        },
+        {
+          "en": "cook",
+          "ja": "料理する"
+        },
+        {
+          "en": "clean",
+          "ja": "掃除する"
+        },
+        {
+          "en": "wash",
+          "ja": "洗う"
+        },
+        {
+          "en": "fast",
+          "ja": "速い"
+        },
+        {
+          "en": "slow",
+          "ja": "遅い"
+        },
+        {
+          "en": "long",
+          "ja": "長い"
+        },
+        {
+          "en": "short",
+          "ja": "短い"
+        },
+        {
+          "en": "early",
+          "ja": "早い"
+        },
+        {
+          "en": "late",
+          "ja": "遅い／遅刻した"
+        },
+        {
+          "en": "beautiful",
+          "ja": "美しい"
+        },
+        {
+          "en": "nice",
+          "ja": "素敵な"
+        },
+        {
+          "en": "kind",
+          "ja": "親切な"
+        },
+        {
+          "en": "strong",
+          "ja": "強い"
+        },
+        {
+          "en": "weak",
+          "ja": "弱い"
+        },
+        {
+          "en": "young",
+          "ja": "若い"
+        }
       ]
     },
     {
       "id": "normal_jhs12",
       "name": "普通（入試・定期頻出）",
       "words": [
-        {"en":"practice","ja":"練習する"},
-        {"en":"prepare","ja":"準備する"},
-        {"en":"decide","ja":"決める"},
-        {"en":"choose","ja":"選ぶ"},
-        {"en":"important","ja":"重要な"},
-        {"en":"difference","ja":"違い"},
-        {"en":"reason","ja":"理由"},
-        {"en":"result","ja":"結果"},
-        {"en":"usually","ja":"ふつう"},
-        {"en":"never","ja":"決して〜ない"}
+        {
+          "en": "practice",
+          "ja": "練習する"
+        },
+        {
+          "en": "prepare",
+          "ja": "準備する"
+        },
+        {
+          "en": "decide",
+          "ja": "決める"
+        },
+        {
+          "en": "choose",
+          "ja": "選ぶ"
+        },
+        {
+          "en": "enjoy",
+          "ja": "楽しむ"
+        },
+        {
+          "en": "continue",
+          "ja": "続ける"
+        },
+        {
+          "en": "change",
+          "ja": "変える／変わる"
+        },
+        {
+          "en": "improve",
+          "ja": "改善する"
+        },
+        {
+          "en": "join",
+          "ja": "参加する"
+        },
+        {
+          "en": "share",
+          "ja": "共有する"
+        },
+        {
+          "en": "travel",
+          "ja": "旅行する"
+        },
+        {
+          "en": "visit",
+          "ja": "訪れる"
+        },
+        {
+          "en": "stay",
+          "ja": "滞在する"
+        },
+        {
+          "en": "move",
+          "ja": "動く／引っ越す"
+        },
+        {
+          "en": "arrive",
+          "ja": "到着する"
+        },
+        {
+          "en": "leave",
+          "ja": "出発する／去る"
+        },
+        {
+          "en": "return",
+          "ja": "戻る"
+        },
+        {
+          "en": "plan",
+          "ja": "計画する"
+        },
+        {
+          "en": "promise",
+          "ja": "約束する"
+        },
+        {
+          "en": "try",
+          "ja": "試す"
+        },
+        {
+          "en": "fail",
+          "ja": "失敗する"
+        },
+        {
+          "en": "win",
+          "ja": "勝つ"
+        },
+        {
+          "en": "lose",
+          "ja": "負ける"
+        },
+        {
+          "en": "answer",
+          "ja": "答える"
+        },
+        {
+          "en": "question",
+          "ja": "質問"
+        },
+        {
+          "en": "explain",
+          "ja": "説明する"
+        },
+        {
+          "en": "mean",
+          "ja": "意味する"
+        },
+        {
+          "en": "example",
+          "ja": "例"
+        },
+        {
+          "en": "difference",
+          "ja": "違い"
+        },
+        {
+          "en": "same",
+          "ja": "同じ"
+        },
+        {
+          "en": "important",
+          "ja": "重要な"
+        },
+        {
+          "en": "necessary",
+          "ja": "必要な"
+        },
+        {
+          "en": "possible",
+          "ja": "可能な"
+        },
+        {
+          "en": "popular",
+          "ja": "人気の"
+        },
+        {
+          "en": "special",
+          "ja": "特別な"
+        },
+        {
+          "en": "famous",
+          "ja": "有名な"
+        },
+        {
+          "en": "problem",
+          "ja": "問題"
+        },
+        {
+          "en": "idea",
+          "ja": "考え"
+        },
+        {
+          "en": "reason",
+          "ja": "理由"
+        },
+        {
+          "en": "result",
+          "ja": "結果"
+        },
+        {
+          "en": "experience",
+          "ja": "経験"
+        },
+        {
+          "en": "future",
+          "ja": "未来"
+        },
+        {
+          "en": "past",
+          "ja": "過去"
+        },
+        {
+          "en": "during",
+          "ja": "〜の間"
+        },
+        {
+          "en": "before",
+          "ja": "〜の前に"
+        },
+        {
+          "en": "after",
+          "ja": "〜の後で"
+        },
+        {
+          "en": "however",
+          "ja": "しかしながら"
+        },
+        {
+          "en": "also",
+          "ja": "また"
+        },
+        {
+          "en": "maybe",
+          "ja": "たぶん"
+        },
+        {
+          "en": "together",
+          "ja": "一緒に"
+        },
+        {
+          "en": "alone",
+          "ja": "ひとりで"
+        },
+        {
+          "en": "each",
+          "ja": "それぞれ"
+        },
+        {
+          "en": "another",
+          "ja": "別の"
+        },
+        {
+          "en": "every",
+          "ja": "すべての／毎〜"
+        },
+        {
+          "en": "both",
+          "ja": "両方"
+        },
+        {
+          "en": "either",
+          "ja": "どちらか"
+        },
+        {
+          "en": "neither",
+          "ja": "どちらも〜ない"
+        },
+        {
+          "en": "almost",
+          "ja": "ほとんど"
+        },
+        {
+          "en": "enough",
+          "ja": "十分な"
+        },
+        {
+          "en": "already",
+          "ja": "すでに"
+        },
+        {
+          "en": "still",
+          "ja": "まだ"
+        },
+        {
+          "en": "yet",
+          "ja": "まだ（否定・疑問）"
+        },
+        {
+          "en": "again",
+          "ja": "再び"
+        },
+        {
+          "en": "once",
+          "ja": "一度"
+        },
+        {
+          "en": "twice",
+          "ja": "二度"
+        },
+        {
+          "en": "first",
+          "ja": "最初の"
+        },
+        {
+          "en": "second",
+          "ja": "2番目の"
+        },
+        {
+          "en": "third",
+          "ja": "3番目の"
+        },
+        {
+          "en": "next",
+          "ja": "次の"
+        },
+        {
+          "en": "last",
+          "ja": "最後の／この前の"
+        },
+        {
+          "en": "usually",
+          "ja": "たいてい"
+        },
+        {
+          "en": "sometimes",
+          "ja": "ときどき"
+        },
+        {
+          "en": "often",
+          "ja": "しばしば"
+        },
+        {
+          "en": "rarely",
+          "ja": "めったに〜ない"
+        },
+        {
+          "en": "certain",
+          "ja": "確かな"
+        },
+        {
+          "en": "sure",
+          "ja": "確信している"
+        },
+        {
+          "en": "subject",
+          "ja": "科目"
+        },
+        {
+          "en": "math",
+          "ja": "数学"
+        },
+        {
+          "en": "science",
+          "ja": "理科"
+        },
+        {
+          "en": "history",
+          "ja": "歴史"
+        },
+        {
+          "en": "geography",
+          "ja": "地理"
+        },
+        {
+          "en": "English",
+          "ja": "英語"
+        },
+        {
+          "en": "Japanese",
+          "ja": "国語"
+        },
+        {
+          "en": "PE",
+          "ja": "体育"
+        },
+        {
+          "en": "music",
+          "ja": "音楽"
+        },
+        {
+          "en": "art",
+          "ja": "美術"
+        },
+        {
+          "en": "club",
+          "ja": "部活動"
+        },
+        {
+          "en": "team",
+          "ja": "チーム"
+        },
+        {
+          "en": "member",
+          "ja": "メンバー"
+        },
+        {
+          "en": "captain",
+          "ja": "キャプテン"
+        },
+        {
+          "en": "rule",
+          "ja": "規則"
+        },
+        {
+          "en": "test",
+          "ja": "テスト"
+        },
+        {
+          "en": "exam",
+          "ja": "試験"
+        },
+        {
+          "en": "score",
+          "ja": "点数"
+        },
+        {
+          "en": "grade",
+          "ja": "成績／学年"
+        },
+        {
+          "en": "homework",
+          "ja": "宿題"
+        },
+        {
+          "en": "project",
+          "ja": "課題／プロジェクト"
+        },
+        {
+          "en": "report",
+          "ja": "レポート／報告"
+        },
+        {
+          "en": "note",
+          "ja": "メモ／注意"
+        },
+        {
+          "en": "message",
+          "ja": "メッセージ"
+        },
+        {
+          "en": "news",
+          "ja": "ニュース"
+        },
+        {
+          "en": "story",
+          "ja": "物語"
+        },
+        {
+          "en": "article",
+          "ja": "記事"
+        },
+        {
+          "en": "hobby",
+          "ja": "趣味"
+        },
+        {
+          "en": "interest",
+          "ja": "興味"
+        },
+        {
+          "en": "favorite",
+          "ja": "お気に入りの"
+        },
+        {
+          "en": "happen",
+          "ja": "起こる"
+        },
+        {
+          "en": "hurry",
+          "ja": "急ぐ"
+        },
+        {
+          "en": "miss",
+          "ja": "逃す／欠席する"
+        },
+        {
+          "en": "forget",
+          "ja": "忘れる"
+        },
+        {
+          "en": "remember",
+          "ja": "思い出す／覚えている"
+        },
+        {
+          "en": "understand",
+          "ja": "理解する"
+        },
+        {
+          "en": "believe",
+          "ja": "信じる"
+        },
+        {
+          "en": "think",
+          "ja": "考える"
+        },
+        {
+          "en": "know",
+          "ja": "知っている"
+        },
+        {
+          "en": "guess",
+          "ja": "推測する"
+        },
+        {
+          "en": "seem",
+          "ja": "〜のように見える"
+        },
+        {
+          "en": "feel",
+          "ja": "感じる"
+        },
+        {
+          "en": "hope",
+          "ja": "望む"
+        },
+        {
+          "en": "agree",
+          "ja": "同意する"
+        },
+        {
+          "en": "disagree",
+          "ja": "反対する"
+        },
+        {
+          "en": "bring",
+          "ja": "持ってくる"
+        },
+        {
+          "en": "carry",
+          "ja": "運ぶ"
+        },
+        {
+          "en": "send",
+          "ja": "送る"
+        },
+        {
+          "en": "receive",
+          "ja": "受け取る"
+        },
+        {
+          "en": "borrow",
+          "ja": "借りる"
+        },
+        {
+          "en": "lend",
+          "ja": "貸す"
+        },
+        {
+          "en": "show",
+          "ja": "見せる"
+        },
+        {
+          "en": "introduce",
+          "ja": "紹介する"
+        },
+        {
+          "en": "build",
+          "ja": "建てる"
+        },
+        {
+          "en": "break",
+          "ja": "壊す"
+        },
+        {
+          "en": "fix",
+          "ja": "直す"
+        },
+        {
+          "en": "cut",
+          "ja": "切る"
+        },
+        {
+          "en": "push",
+          "ja": "押す"
+        },
+        {
+          "en": "pull",
+          "ja": "引く"
+        },
+        {
+          "en": "throw",
+          "ja": "投げる"
+        },
+        {
+          "en": "catch",
+          "ja": "捕まえる"
+        },
+        {
+          "en": "hit",
+          "ja": "打つ"
+        },
+        {
+          "en": "kick",
+          "ja": "蹴る"
+        },
+        {
+          "en": "turn",
+          "ja": "曲がる／回す"
+        },
+        {
+          "en": "stop",
+          "ja": "止まる"
+        },
+        {
+          "en": "start",
+          "ja": "始める"
+        },
+        {
+          "en": "begin",
+          "ja": "始める"
+        },
+        {
+          "en": "end",
+          "ja": "終わる"
+        },
+        {
+          "en": "hold",
+          "ja": "持つ"
+        },
+        {
+          "en": "keep",
+          "ja": "保つ／続ける"
+        },
+        {
+          "en": "save",
+          "ja": "節約する／救う"
+        },
+        {
+          "en": "spend",
+          "ja": "（時間・お金を）使う"
+        },
+        {
+          "en": "cost",
+          "ja": "（費用が）かかる"
+        },
+        {
+          "en": "price",
+          "ja": "値段"
+        },
+        {
+          "en": "free",
+          "ja": "無料の／自由な"
+        },
+        {
+          "en": "cheap",
+          "ja": "安い"
+        },
+        {
+          "en": "expensive",
+          "ja": "高い"
+        },
+        {
+          "en": "busy",
+          "ja": "忙しい"
+        },
+        {
+          "en": "quiet",
+          "ja": "静かな"
+        },
+        {
+          "en": "loud",
+          "ja": "うるさい"
+        },
+        {
+          "en": "safe",
+          "ja": "安全な"
+        },
+        {
+          "en": "dangerous",
+          "ja": "危険な"
+        },
+        {
+          "en": "healthy",
+          "ja": "健康な"
+        },
+        {
+          "en": "sick",
+          "ja": "病気の"
+        },
+        {
+          "en": "strong",
+          "ja": "強い"
+        },
+        {
+          "en": "weak",
+          "ja": "弱い"
+        },
+        {
+          "en": "tired",
+          "ja": "疲れた"
+        },
+        {
+          "en": "hungry",
+          "ja": "おなかがすいた"
+        },
+        {
+          "en": "thirsty",
+          "ja": "のどが渇いた"
+        },
+        {
+          "en": "sleepy",
+          "ja": "眠い"
+        },
+        {
+          "en": "interesting",
+          "ja": "面白い"
+        },
+        {
+          "en": "boring",
+          "ja": "退屈な"
+        },
+        {
+          "en": "exciting",
+          "ja": "わくわくする"
+        },
+        {
+          "en": "careful",
+          "ja": "注意深い"
+        },
+        {
+          "en": "careless",
+          "ja": "不注意な"
+        },
+        {
+          "en": "polite",
+          "ja": "礼儀正しい"
+        },
+        {
+          "en": "rude",
+          "ja": "失礼な"
+        },
+        {
+          "en": "honest",
+          "ja": "正直な"
+        },
+        {
+          "en": "kind",
+          "ja": "親切な"
+        },
+        {
+          "en": "friendly",
+          "ja": "友好的な"
+        },
+        {
+          "en": "wonderful",
+          "ja": "すばらしい"
+        },
+        {
+          "en": "terrible",
+          "ja": "ひどい"
+        },
+        {
+          "en": "different",
+          "ja": "異なる"
+        },
+        {
+          "en": "similar",
+          "ja": "似ている"
+        },
+        {
+          "en": "simple",
+          "ja": "簡単な／単純な"
+        },
+        {
+          "en": "difficult",
+          "ja": "難しい"
+        },
+        {
+          "en": "ready",
+          "ja": "準備ができた"
+        },
+        {
+          "en": "late",
+          "ja": "遅い／遅刻した"
+        },
+        {
+          "en": "early",
+          "ja": "早い"
+        },
+        {
+          "en": "suddenly",
+          "ja": "突然"
+        },
+        {
+          "en": "quickly",
+          "ja": "すぐに／速く"
+        },
+        {
+          "en": "slowly",
+          "ja": "ゆっくり"
+        },
+        {
+          "en": "carefully",
+          "ja": "注意深く"
+        },
+        {
+          "en": "easily",
+          "ja": "簡単に"
+        },
+        {
+          "en": "really",
+          "ja": "本当に"
+        },
+        {
+          "en": "probably",
+          "ja": "おそらく"
+        },
+        {
+          "en": "finally",
+          "ja": "ついに"
+        },
+        {
+          "en": "place",
+          "ja": "場所"
+        },
+        {
+          "en": "area",
+          "ja": "地域"
+        },
+        {
+          "en": "space",
+          "ja": "空間"
+        },
+        {
+          "en": "corner",
+          "ja": "角"
+        },
+        {
+          "en": "center",
+          "ja": "中心"
+        },
+        {
+          "en": "front",
+          "ja": "前"
+        },
+        {
+          "en": "back",
+          "ja": "後ろ"
+        },
+        {
+          "en": "side",
+          "ja": "側"
+        },
+        {
+          "en": "inside",
+          "ja": "中"
+        },
+        {
+          "en": "outside",
+          "ja": "外"
+        },
+        {
+          "en": "top",
+          "ja": "上部"
+        },
+        {
+          "en": "bottom",
+          "ja": "底"
+        },
+        {
+          "en": "information",
+          "ja": "情報"
+        },
+        {
+          "en": "data",
+          "ja": "データ"
+        },
+        {
+          "en": "website",
+          "ja": "ウェブサイト"
+        },
+        {
+          "en": "internet",
+          "ja": "インターネット"
+        },
+        {
+          "en": "email",
+          "ja": "メール"
+        },
+        {
+          "en": "password",
+          "ja": "パスワード"
+        },
+        {
+          "en": "account",
+          "ja": "アカウント"
+        },
+        {
+          "en": "picture",
+          "ja": "写真"
+        },
+        {
+          "en": "video",
+          "ja": "動画"
+        },
+        {
+          "en": "shop",
+          "ja": "店"
+        },
+        {
+          "en": "market",
+          "ja": "市場"
+        },
+        {
+          "en": "restaurant",
+          "ja": "レストラン"
+        },
+        {
+          "en": "menu",
+          "ja": "メニュー"
+        },
+        {
+          "en": "order",
+          "ja": "注文する"
+        },
+        {
+          "en": "serve",
+          "ja": "提供する"
+        },
+        {
+          "en": "ticket",
+          "ja": "切符"
+        },
+        {
+          "en": "reservation",
+          "ja": "予約"
+        },
+        {
+          "en": "weather",
+          "ja": "天気"
+        },
+        {
+          "en": "temperature",
+          "ja": "気温"
+        },
+        {
+          "en": "season",
+          "ja": "季節"
+        },
+        {
+          "en": "event",
+          "ja": "イベント"
+        },
+        {
+          "en": "festival",
+          "ja": "祭り"
+        },
+        {
+          "en": "holiday",
+          "ja": "休日"
+        },
+        {
+          "en": "birthday",
+          "ja": "誕生日"
+        },
+        {
+          "en": "gift",
+          "ja": "贈り物"
+        },
+        {
+          "en": "language",
+          "ja": "言語"
+        },
+        {
+          "en": "word",
+          "ja": "単語"
+        },
+        {
+          "en": "sentence",
+          "ja": "文"
+        },
+        {
+          "en": "meaning",
+          "ja": "意味"
+        },
+        {
+          "en": "grammar",
+          "ja": "文法"
+        },
+        {
+          "en": "dictionary",
+          "ja": "辞書"
+        },
+        {
+          "en": "conversation",
+          "ja": "会話"
+        },
+        {
+          "en": "discussion",
+          "ja": "話し合い"
+        },
+        {
+          "en": "opinion",
+          "ja": "意見"
+        },
+        {
+          "en": "choice",
+          "ja": "選択"
+        },
+        {
+          "en": "decision",
+          "ja": "決定"
+        },
+        {
+          "en": "chance",
+          "ja": "機会"
+        },
+        {
+          "en": "risk",
+          "ja": "危険／リスク"
+        },
+        {
+          "en": "goal",
+          "ja": "目標"
+        },
+        {
+          "en": "dream",
+          "ja": "夢"
+        },
+        {
+          "en": "skill",
+          "ja": "技能"
+        },
+        {
+          "en": "ability",
+          "ja": "能力"
+        },
+        {
+          "en": "level",
+          "ja": "レベル"
+        },
+        {
+          "en": "progress",
+          "ja": "進歩"
+        },
+        {
+          "en": "habit",
+          "ja": "習慣"
+        },
+        {
+          "en": "environment",
+          "ja": "環境"
+        },
+        {
+          "en": "culture",
+          "ja": "文化"
+        },
+        {
+          "en": "community",
+          "ja": "地域社会"
+        },
+        {
+          "en": "activity",
+          "ja": "活動"
+        },
+        {
+          "en": "schedule",
+          "ja": "予定"
+        },
+        {
+          "en": "calendar",
+          "ja": "カレンダー"
+        },
+        {
+          "en": "situation",
+          "ja": "状況"
+        },
+        {
+          "en": "communication",
+          "ja": "コミュニケーション"
+        },
+        {
+          "en": "relationship",
+          "ja": "関係"
+        },
+        {
+          "en": "support",
+          "ja": "支援する／支える"
+        },
+        {
+          "en": "protect",
+          "ja": "守る"
+        },
+        {
+          "en": "prevent",
+          "ja": "防ぐ"
+        },
+        {
+          "en": "allow",
+          "ja": "許す"
+        },
+        {
+          "en": "refuse",
+          "ja": "断る"
+        },
+        {
+          "en": "accept",
+          "ja": "受け入れる"
+        },
+        {
+          "en": "offer",
+          "ja": "申し出る"
+        },
+        {
+          "en": "suggest",
+          "ja": "提案する"
+        },
+        {
+          "en": "advise",
+          "ja": "助言する"
+        },
+        {
+          "en": "invite",
+          "ja": "招待する"
+        },
+        {
+          "en": "welcome",
+          "ja": "歓迎する"
+        },
+        {
+          "en": "describe",
+          "ja": "説明する／描写する"
+        },
+        {
+          "en": "compare",
+          "ja": "比べる"
+        },
+        {
+          "en": "collect",
+          "ja": "集める"
+        },
+        {
+          "en": "check",
+          "ja": "確認する"
+        },
+        {
+          "en": "discover",
+          "ja": "発見する"
+        },
+        {
+          "en": "develop",
+          "ja": "発展させる／開発する"
+        },
+        {
+          "en": "create",
+          "ja": "創造する"
+        },
+        {
+          "en": "design",
+          "ja": "設計する"
+        },
+        {
+          "en": "control",
+          "ja": "管理する"
+        },
+        {
+          "en": "increase",
+          "ja": "増加する"
+        },
+        {
+          "en": "reduce",
+          "ja": "減らす"
+        },
+        {
+          "en": "raise",
+          "ja": "上げる／育てる"
+        },
+        {
+          "en": "lower",
+          "ja": "下げる"
+        },
+        {
+          "en": "include",
+          "ja": "含む"
+        },
+        {
+          "en": "contain",
+          "ja": "含む"
+        },
+        {
+          "en": "except",
+          "ja": "除いて"
+        },
+        {
+          "en": "provide",
+          "ja": "提供する"
+        },
+        {
+          "en": "require",
+          "ja": "必要とする"
+        },
+        {
+          "en": "prefer",
+          "ja": "〜の方が好き"
+        },
+        {
+          "en": "expect",
+          "ja": "期待する"
+        },
+        {
+          "en": "success",
+          "ja": "成功"
+        },
+        {
+          "en": "failure",
+          "ja": "失敗"
+        },
+        {
+          "en": "attention",
+          "ja": "注意"
+        },
+        {
+          "en": "notice",
+          "ja": "気づく"
+        },
+        {
+          "en": "mistake",
+          "ja": "間違い"
+        },
+        {
+          "en": "memory",
+          "ja": "記憶"
+        },
+        {
+          "en": "mind",
+          "ja": "心／考え"
+        },
+        {
+          "en": "knowledge",
+          "ja": "知識"
+        },
+        {
+          "en": "truth",
+          "ja": "真実"
+        },
+        {
+          "en": "fact",
+          "ja": "事実"
+        }
       ]
     },
     {
       "id": "hard_jhs12",
       "name": "難しい（中学範囲・学習語寄り）",
       "words": [
-        {"en":"environment","ja":"環境"},
-        {"en":"technology","ja":"技術"},
-        {"en":"information","ja":"情報"},
-        {"en":"education","ja":"教育"},
-        {"en":"society","ja":"社会"},
-        {"en":"research","ja":"研究／調査"},
-        {"en":"increase","ja":"増加する"},
-        {"en":"reduce","ja":"減らす"},
-        {"en":"support","ja":"支援する"},
-        {"en":"purpose","ja":"目的"}
+        {
+          "en": "environment",
+          "ja": "環境"
+        },
+        {
+          "en": "technology",
+          "ja": "技術"
+        },
+        {
+          "en": "information",
+          "ja": "情報"
+        },
+        {
+          "en": "communication",
+          "ja": "コミュニケーション"
+        },
+        {
+          "en": "education",
+          "ja": "教育"
+        },
+        {
+          "en": "culture",
+          "ja": "文化"
+        },
+        {
+          "en": "society",
+          "ja": "社会"
+        },
+        {
+          "en": "community",
+          "ja": "地域社会"
+        },
+        {
+          "en": "government",
+          "ja": "政府"
+        },
+        {
+          "en": "international",
+          "ja": "国際的な"
+        },
+        {
+          "en": "science",
+          "ja": "科学"
+        },
+        {
+          "en": "research",
+          "ja": "研究／調査"
+        },
+        {
+          "en": "system",
+          "ja": "制度／仕組み"
+        },
+        {
+          "en": "industry",
+          "ja": "産業"
+        },
+        {
+          "en": "economy",
+          "ja": "経済"
+        },
+        {
+          "en": "policy",
+          "ja": "政策"
+        },
+        {
+          "en": "law",
+          "ja": "法律"
+        },
+        {
+          "en": "history",
+          "ja": "歴史"
+        },
+        {
+          "en": "future",
+          "ja": "未来"
+        },
+        {
+          "en": "purpose",
+          "ja": "目的"
+        },
+        {
+          "en": "objective",
+          "ja": "目的／目標"
+        },
+        {
+          "en": "goal",
+          "ja": "目標"
+        },
+        {
+          "en": "method",
+          "ja": "方法"
+        },
+        {
+          "en": "process",
+          "ja": "過程"
+        },
+        {
+          "en": "result",
+          "ja": "結果"
+        },
+        {
+          "en": "effect",
+          "ja": "効果"
+        },
+        {
+          "en": "influence",
+          "ja": "影響"
+        },
+        {
+          "en": "cause",
+          "ja": "原因"
+        },
+        {
+          "en": "factor",
+          "ja": "要因"
+        },
+        {
+          "en": "solution",
+          "ja": "解決策"
+        },
+        {
+          "en": "problem",
+          "ja": "問題"
+        },
+        {
+          "en": "issue",
+          "ja": "課題"
+        },
+        {
+          "en": "challenge",
+          "ja": "課題／挑戦"
+        },
+        {
+          "en": "opportunity",
+          "ja": "機会"
+        },
+        {
+          "en": "risk",
+          "ja": "危険／リスク"
+        },
+        {
+          "en": "safety",
+          "ja": "安全"
+        },
+        {
+          "en": "security",
+          "ja": "安全保障／セキュリティ"
+        },
+        {
+          "en": "quality",
+          "ja": "品質"
+        },
+        {
+          "en": "value",
+          "ja": "価値"
+        },
+        {
+          "en": "benefit",
+          "ja": "利益／利点"
+        },
+        {
+          "en": "cost",
+          "ja": "費用"
+        },
+        {
+          "en": "resource",
+          "ja": "資源"
+        },
+        {
+          "en": "energy",
+          "ja": "エネルギー"
+        },
+        {
+          "en": "power",
+          "ja": "力／電力"
+        },
+        {
+          "en": "nature",
+          "ja": "自然"
+        },
+        {
+          "en": "pollution",
+          "ja": "汚染"
+        },
+        {
+          "en": "climate",
+          "ja": "気候"
+        },
+        {
+          "en": "recycle",
+          "ja": "再利用する"
+        },
+        {
+          "en": "protect",
+          "ja": "守る"
+        },
+        {
+          "en": "damage",
+          "ja": "損害／損なう"
+        },
+        {
+          "en": "destroy",
+          "ja": "破壊する"
+        },
+        {
+          "en": "recover",
+          "ja": "回復する"
+        },
+        {
+          "en": "develop",
+          "ja": "開発する／発展する"
+        },
+        {
+          "en": "progress",
+          "ja": "進歩"
+        },
+        {
+          "en": "advance",
+          "ja": "進歩させる／前進する"
+        },
+        {
+          "en": "increase",
+          "ja": "増加する"
+        },
+        {
+          "en": "decrease",
+          "ja": "減少する"
+        },
+        {
+          "en": "reduce",
+          "ja": "減らす"
+        },
+        {
+          "en": "expand",
+          "ja": "拡大する"
+        },
+        {
+          "en": "improve",
+          "ja": "改善する"
+        },
+        {
+          "en": "maintain",
+          "ja": "維持する"
+        },
+        {
+          "en": "manage",
+          "ja": "管理する"
+        },
+        {
+          "en": "control",
+          "ja": "制御する"
+        },
+        {
+          "en": "organize",
+          "ja": "組織する"
+        },
+        {
+          "en": "operate",
+          "ja": "運用する／操作する"
+        },
+        {
+          "en": "perform",
+          "ja": "実行する"
+        },
+        {
+          "en": "analyze",
+          "ja": "分析する"
+        },
+        {
+          "en": "evaluate",
+          "ja": "評価する"
+        },
+        {
+          "en": "measure",
+          "ja": "測定する"
+        },
+        {
+          "en": "estimate",
+          "ja": "推定する"
+        },
+        {
+          "en": "compare",
+          "ja": "比較する"
+        },
+        {
+          "en": "consider",
+          "ja": "考慮する"
+        },
+        {
+          "en": "examine",
+          "ja": "調べる"
+        },
+        {
+          "en": "investigate",
+          "ja": "調査する"
+        },
+        {
+          "en": "observe",
+          "ja": "観察する"
+        },
+        {
+          "en": "predict",
+          "ja": "予測する"
+        },
+        {
+          "en": "conclude",
+          "ja": "結論づける"
+        },
+        {
+          "en": "discuss",
+          "ja": "議論する"
+        },
+        {
+          "en": "debate",
+          "ja": "討論する"
+        },
+        {
+          "en": "argue",
+          "ja": "主張する"
+        },
+        {
+          "en": "claim",
+          "ja": "主張する"
+        },
+        {
+          "en": "explain",
+          "ja": "説明する"
+        },
+        {
+          "en": "describe",
+          "ja": "描写する"
+        },
+        {
+          "en": "define",
+          "ja": "定義する"
+        },
+        {
+          "en": "suggest",
+          "ja": "提案する"
+        },
+        {
+          "en": "recommend",
+          "ja": "勧める"
+        },
+        {
+          "en": "advise",
+          "ja": "助言する"
+        },
+        {
+          "en": "provide",
+          "ja": "提供する"
+        },
+        {
+          "en": "offer",
+          "ja": "提供する／申し出る"
+        },
+        {
+          "en": "support",
+          "ja": "支援する"
+        },
+        {
+          "en": "require",
+          "ja": "必要とする"
+        },
+        {
+          "en": "depend",
+          "ja": "依存する"
+        },
+        {
+          "en": "affect",
+          "ja": "影響する"
+        },
+        {
+          "en": "prevent",
+          "ja": "防ぐ"
+        },
+        {
+          "en": "avoid",
+          "ja": "避ける"
+        },
+        {
+          "en": "solve",
+          "ja": "解決する"
+        },
+        {
+          "en": "achieve",
+          "ja": "達成する"
+        },
+        {
+          "en": "succeed",
+          "ja": "成功する"
+        },
+        {
+          "en": "fail",
+          "ja": "失敗する"
+        },
+        {
+          "en": "opinion",
+          "ja": "意見"
+        },
+        {
+          "en": "view",
+          "ja": "見方"
+        },
+        {
+          "en": "attitude",
+          "ja": "態度"
+        },
+        {
+          "en": "behavior",
+          "ja": "行動"
+        },
+        {
+          "en": "relationship",
+          "ja": "関係"
+        },
+        {
+          "en": "difference",
+          "ja": "違い"
+        },
+        {
+          "en": "similarity",
+          "ja": "類似"
+        },
+        {
+          "en": "character",
+          "ja": "性格／特徴"
+        },
+        {
+          "en": "feature",
+          "ja": "特徴"
+        },
+        {
+          "en": "function",
+          "ja": "機能"
+        },
+        {
+          "en": "structure",
+          "ja": "構造"
+        },
+        {
+          "en": "pattern",
+          "ja": "パターン"
+        },
+        {
+          "en": "trend",
+          "ja": "傾向"
+        },
+        {
+          "en": "data",
+          "ja": "データ"
+        },
+        {
+          "en": "statistics",
+          "ja": "統計"
+        },
+        {
+          "en": "survey",
+          "ja": "調査"
+        },
+        {
+          "en": "experiment",
+          "ja": "実験"
+        },
+        {
+          "en": "evidence",
+          "ja": "証拠"
+        },
+        {
+          "en": "fact",
+          "ja": "事実"
+        },
+        {
+          "en": "truth",
+          "ja": "真実"
+        },
+        {
+          "en": "theory",
+          "ja": "理論"
+        },
+        {
+          "en": "concept",
+          "ja": "概念"
+        },
+        {
+          "en": "idea",
+          "ja": "考え"
+        },
+        {
+          "en": "innovation",
+          "ja": "革新"
+        },
+        {
+          "en": "invention",
+          "ja": "発明"
+        },
+        {
+          "en": "discovery",
+          "ja": "発見"
+        },
+        {
+          "en": "application",
+          "ja": "応用／申請"
+        },
+        {
+          "en": "software",
+          "ja": "ソフトウェア"
+        },
+        {
+          "en": "hardware",
+          "ja": "ハードウェア"
+        },
+        {
+          "en": "network",
+          "ja": "ネットワーク"
+        },
+        {
+          "en": "database",
+          "ja": "データベース"
+        },
+        {
+          "en": "algorithm",
+          "ja": "アルゴリズム"
+        },
+        {
+          "en": "artificial",
+          "ja": "人工の"
+        },
+        {
+          "en": "intelligence",
+          "ja": "知能"
+        },
+        {
+          "en": "machine",
+          "ja": "機械"
+        },
+        {
+          "en": "robot",
+          "ja": "ロボット"
+        },
+        {
+          "en": "project",
+          "ja": "計画／プロジェクト"
+        },
+        {
+          "en": "strategy",
+          "ja": "戦略"
+        },
+        {
+          "en": "management",
+          "ja": "経営／管理"
+        },
+        {
+          "en": "organization",
+          "ja": "組織"
+        },
+        {
+          "en": "company",
+          "ja": "会社"
+        },
+        {
+          "en": "business",
+          "ja": "事業／商売"
+        },
+        {
+          "en": "market",
+          "ja": "市場"
+        },
+        {
+          "en": "customer",
+          "ja": "顧客"
+        },
+        {
+          "en": "service",
+          "ja": "サービス"
+        },
+        {
+          "en": "product",
+          "ja": "製品"
+        },
+        {
+          "en": "competition",
+          "ja": "競争"
+        },
+        {
+          "en": "profit",
+          "ja": "利益"
+        },
+        {
+          "en": "loss",
+          "ja": "損失"
+        },
+        {
+          "en": "budget",
+          "ja": "予算"
+        },
+        {
+          "en": "investment",
+          "ja": "投資"
+        },
+        {
+          "en": "finance",
+          "ja": "金融"
+        },
+        {
+          "en": "connection",
+          "ja": "接続／つながり"
+        },
+        {
+          "en": "knowledge",
+          "ja": "知識"
+        },
+        {
+          "en": "skill",
+          "ja": "技能"
+        },
+        {
+          "en": "ability",
+          "ja": "能力"
+        },
+        {
+          "en": "responsibility",
+          "ja": "責任"
+        },
+        {
+          "en": "duty",
+          "ja": "義務"
+        },
+        {
+          "en": "right",
+          "ja": "権利"
+        },
+        {
+          "en": "freedom",
+          "ja": "自由"
+        },
+        {
+          "en": "justice",
+          "ja": "正義"
+        },
+        {
+          "en": "equality",
+          "ja": "平等"
+        },
+        {
+          "en": "population",
+          "ja": "人口"
+        },
+        {
+          "en": "citizen",
+          "ja": "市民"
+        },
+        {
+          "en": "regulation",
+          "ja": "規制"
+        },
+        {
+          "en": "rule",
+          "ja": "規則"
+        },
+        {
+          "en": "health",
+          "ja": "健康"
+        },
+        {
+          "en": "medicine",
+          "ja": "医療"
+        },
+        {
+          "en": "disease",
+          "ja": "病気"
+        },
+        {
+          "en": "hospital",
+          "ja": "病院"
+        },
+        {
+          "en": "stress",
+          "ja": "ストレス"
+        },
+        {
+          "en": "mental",
+          "ja": "精神の"
+        },
+        {
+          "en": "emotion",
+          "ja": "感情"
+        },
+        {
+          "en": "confidence",
+          "ja": "自信"
+        },
+        {
+          "en": "motivation",
+          "ja": "やる気"
+        },
+        {
+          "en": "creative",
+          "ja": "創造的な"
+        },
+        {
+          "en": "efficient",
+          "ja": "効率的な"
+        },
+        {
+          "en": "effective",
+          "ja": "効果的な"
+        },
+        {
+          "en": "complex",
+          "ja": "複雑な"
+        },
+        {
+          "en": "simple",
+          "ja": "単純な"
+        },
+        {
+          "en": "general",
+          "ja": "一般的な"
+        },
+        {
+          "en": "specific",
+          "ja": "具体的な"
+        },
+        {
+          "en": "recent",
+          "ja": "最近の"
+        },
+        {
+          "en": "current",
+          "ja": "現在の"
+        },
+        {
+          "en": "former",
+          "ja": "以前の"
+        },
+        {
+          "en": "individual",
+          "ja": "個人"
+        },
+        {
+          "en": "public",
+          "ja": "公共の"
+        },
+        {
+          "en": "private",
+          "ja": "私的な"
+        },
+        {
+          "en": "global",
+          "ja": "世界的な"
+        },
+        {
+          "en": "local",
+          "ja": "地域の"
+        },
+        {
+          "en": "especially",
+          "ja": "特に"
+        },
+        {
+          "en": "therefore",
+          "ja": "それゆえ"
+        },
+        {
+          "en": "although",
+          "ja": "〜だけれども"
+        },
+        {
+          "en": "however",
+          "ja": "しかしながら"
+        },
+        {
+          "en": "instead",
+          "ja": "その代わりに"
+        },
+        {
+          "en": "otherwise",
+          "ja": "さもないと"
+        },
+        {
+          "en": "moreover",
+          "ja": "その上"
+        },
+        {
+          "en": "furthermore",
+          "ja": "さらに"
+        },
+        {
+          "en": "according",
+          "ja": "〜によれば"
+        },
+        {
+          "en": "certainly",
+          "ja": "確かに"
+        },
+        {
+          "en": "actually",
+          "ja": "実際に"
+        },
+        {
+          "en": "probably",
+          "ja": "おそらく"
+        },
+        {
+          "en": "immediately",
+          "ja": "すぐに"
+        },
+        {
+          "en": "eventually",
+          "ja": "最終的に"
+        },
+        {
+          "en": "significant",
+          "ja": "重要な"
+        },
+        {
+          "en": "serious",
+          "ja": "深刻な"
+        },
+        {
+          "en": "necessary",
+          "ja": "必要な"
+        },
+        {
+          "en": "sufficient",
+          "ja": "十分な"
+        },
+        {
+          "en": "available",
+          "ja": "利用できる"
+        },
+        {
+          "en": "various",
+          "ja": "さまざまな"
+        },
+        {
+          "en": "particular",
+          "ja": "特定の"
+        },
+        {
+          "en": "eliminate",
+          "ja": "取り除く"
+        },
+        {
+          "en": "resolve",
+          "ja": "解決する"
+        },
+        {
+          "en": "participate",
+          "ja": "参加する"
+        },
+        {
+          "en": "contribute",
+          "ja": "貢献する"
+        },
+        {
+          "en": "volunteer",
+          "ja": "ボランティアをする"
+        },
+        {
+          "en": "preserve",
+          "ja": "保存する／保護する"
+        },
+        {
+          "en": "inspect",
+          "ja": "検査する"
+        },
+        {
+          "en": "repair",
+          "ja": "修理する"
+        },
+        {
+          "en": "publish",
+          "ja": "出版する／公開する"
+        },
+        {
+          "en": "announce",
+          "ja": "発表する"
+        },
+        {
+          "en": "report",
+          "ja": "報告する"
+        },
+        {
+          "en": "confirm",
+          "ja": "確認する"
+        },
+        {
+          "en": "approve",
+          "ja": "承認する"
+        },
+        {
+          "en": "reject",
+          "ja": "拒否する"
+        },
+        {
+          "en": "permit",
+          "ja": "許可する"
+        },
+        {
+          "en": "ban",
+          "ja": "禁止する"
+        },
+        {
+          "en": "respond",
+          "ja": "対応する"
+        },
+        {
+          "en": "react",
+          "ja": "反応する"
+        },
+        {
+          "en": "represent",
+          "ja": "代表する"
+        },
+        {
+          "en": "replace",
+          "ja": "置き換える"
+        },
+        {
+          "en": "consume",
+          "ja": "消費する"
+        },
+        {
+          "en": "produce",
+          "ja": "生産する"
+        },
+        {
+          "en": "transport",
+          "ja": "輸送する"
+        },
+        {
+          "en": "deliver",
+          "ja": "配達する"
+        },
+        {
+          "en": "generate",
+          "ja": "生成する／生み出す"
+        },
+        {
+          "en": "calculate",
+          "ja": "計算する"
+        },
+        {
+          "en": "translate",
+          "ja": "翻訳する"
+        },
+        {
+          "en": "interpret",
+          "ja": "解釈する"
+        },
+        {
+          "en": "alternative",
+          "ja": "代替の"
+        },
+        {
+          "en": "option",
+          "ja": "選択肢"
+        },
+        {
+          "en": "priority",
+          "ja": "優先順位"
+        },
+        {
+          "en": "emergency",
+          "ja": "緊急事態"
+        },
+        {
+          "en": "disaster",
+          "ja": "災害"
+        },
+        {
+          "en": "facility",
+          "ja": "施設"
+        },
+        {
+          "en": "infrastructure",
+          "ja": "社会基盤"
+        },
+        {
+          "en": "transportation",
+          "ja": "交通"
+        },
+        {
+          "en": "agriculture",
+          "ja": "農業"
+        },
+        {
+          "en": "manufacturing",
+          "ja": "製造業"
+        },
+        {
+          "en": "distribution",
+          "ja": "流通"
+        },
+        {
+          "en": "supply",
+          "ja": "供給"
+        },
+        {
+          "en": "demand",
+          "ja": "需要"
+        },
+        {
+          "en": "employment",
+          "ja": "雇用"
+        },
+        {
+          "en": "unemployment",
+          "ja": "失業"
+        },
+        {
+          "en": "income",
+          "ja": "収入"
+        },
+        {
+          "en": "expense",
+          "ja": "支出"
+        },
+        {
+          "en": "tax",
+          "ja": "税金"
+        },
+        {
+          "en": "environmental",
+          "ja": "環境の"
+        },
+        {
+          "en": "scientific",
+          "ja": "科学の"
+        },
+        {
+          "en": "cultural",
+          "ja": "文化の"
+        },
+        {
+          "en": "social",
+          "ja": "社会の"
+        },
+        {
+          "en": "economic",
+          "ja": "経済の"
+        },
+        {
+          "en": "political",
+          "ja": "政治の"
+        },
+        {
+          "en": "psychology",
+          "ja": "心理学"
+        },
+        {
+          "en": "biology",
+          "ja": "生物学"
+        },
+        {
+          "en": "chemistry",
+          "ja": "化学"
+        },
+        {
+          "en": "physics",
+          "ja": "物理"
+        },
+        {
+          "en": "literature",
+          "ja": "文学"
+        },
+        {
+          "en": "philosophy",
+          "ja": "哲学"
+        },
+        {
+          "en": "expression",
+          "ja": "表現"
+        },
+        {
+          "en": "impression",
+          "ja": "印象"
+        },
+        {
+          "en": "identity",
+          "ja": "個性／身元"
+        },
+        {
+          "en": "personality",
+          "ja": "人格"
+        },
+        {
+          "en": "potential",
+          "ja": "潜在能力"
+        },
+        {
+          "en": "talent",
+          "ja": "才能"
+        },
+        {
+          "en": "habit",
+          "ja": "習慣"
+        },
+        {
+          "en": "routine",
+          "ja": "日課"
+        },
+        {
+          "en": "discipline",
+          "ja": "規律"
+        },
+        {
+          "en": "effort",
+          "ja": "努力"
+        },
+        {
+          "en": "reward",
+          "ja": "報酬"
+        },
+        {
+          "en": "punishment",
+          "ja": "罰"
+        },
+        {
+          "en": "advantage",
+          "ja": "利点"
+        },
+        {
+          "en": "disadvantage",
+          "ja": "欠点"
+        },
+        {
+          "en": "impact",
+          "ja": "影響／衝撃"
+        },
+        {
+          "en": "harm",
+          "ja": "害"
+        },
+        {
+          "en": "conflict",
+          "ja": "対立"
+        },
+        {
+          "en": "cooperate",
+          "ja": "協力する"
+        },
+        {
+          "en": "collaboration",
+          "ja": "協力"
+        },
+        {
+          "en": "negotiate",
+          "ja": "交渉する"
+        },
+        {
+          "en": "agreement",
+          "ja": "合意"
+        },
+        {
+          "en": "appointment",
+          "ja": "予約／約束"
+        },
+        {
+          "en": "deadline",
+          "ja": "締め切り"
+        },
+        {
+          "en": "responsible",
+          "ja": "責任がある"
+        },
+        {
+          "en": "reliable",
+          "ja": "信頼できる"
+        },
+        {
+          "en": "flexible",
+          "ja": "柔軟な"
+        },
+        {
+          "en": "accurate",
+          "ja": "正確な"
+        },
+        {
+          "en": "precise",
+          "ja": "精密な"
+        },
+        {
+          "en": "productive",
+          "ja": "生産的な"
+        },
+        {
+          "en": "sustainable",
+          "ja": "持続可能な"
+        },
+        {
+          "en": "stable",
+          "ja": "安定した"
+        },
+        {
+          "en": "unstable",
+          "ja": "不安定な"
+        }
       ]
     }
   ]
