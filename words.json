@@ -1,0 +1,52 @@
+{
+  "levels": [
+    {
+      "id": "easy_jhs12",
+      "name": "簡単（中1〜中2・頻出）",
+      "words": [
+        {"en":"book","ja":"本"},
+        {"en":"pen","ja":"ペン"},
+        {"en":"school","ja":"学校"},
+        {"en":"friend","ja":"友だち"},
+        {"en":"home","ja":"家"},
+        {"en":"water","ja":"水"},
+        {"en":"food","ja":"食べ物"},
+        {"en":"happy","ja":"うれしい"},
+        {"en":"small","ja":"小さい"},
+        {"en":"morning","ja":"朝"}
+      ]
+    },
+    {
+      "id": "normal_jhs12",
+      "name": "普通（入試・定期頻出）",
+      "words": [
+        {"en":"practice","ja":"練習する"},
+        {"en":"prepare","ja":"準備する"},
+        {"en":"decide","ja":"決める"},
+        {"en":"choose","ja":"選ぶ"},
+        {"en":"important","ja":"重要な"},
+        {"en":"difference","ja":"違い"},
+        {"en":"reason","ja":"理由"},
+        {"en":"result","ja":"結果"},
+        {"en":"usually","ja":"ふつう"},
+        {"en":"never","ja":"決して〜ない"}
+      ]
+    },
+    {
+      "id": "hard_jhs12",
+      "name": "難しい（中学範囲・学習語寄り）",
+      "words": [
+        {"en":"environment","ja":"環境"},
+        {"en":"technology","ja":"技術"},
+        {"en":"information","ja":"情報"},
+        {"en":"education","ja":"教育"},
+        {"en":"society","ja":"社会"},
+        {"en":"research","ja":"研究／調査"},
+        {"en":"increase","ja":"増加する"},
+        {"en":"reduce","ja":"減らす"},
+        {"en":"support","ja":"支援する"},
+        {"en":"purpose","ja":"目的"}
+      ]
+    }
+  ]
+}
